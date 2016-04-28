@@ -19,4 +19,4 @@ struct []uint8 {
 
 性能差异
 --------
-![Benchmark](https://github.com/guodongxiaren/test/blob/master/README.md)
+![Benchmark](https://github.com/beanwc/goptimize/blob/master/str2bytes/image/benchmark.png)
